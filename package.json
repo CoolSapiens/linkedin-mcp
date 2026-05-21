@@ -1,0 +1,12 @@
+{
+  "name": "@talktohumans/mcp-public-registry",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MCP Registry metadata for the public TalkToHumans LinkedIn MCP server.",
+  "scripts": {
+    "check": "node scripts/check-server-json.mjs",
+    "registry:login": "mcp-publisher login github",
+    "registry:publish": "mcp-publisher publish",
+    "registry:search": "curl \"https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.CoolSapiens/linkedin-mcp\""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.CoolSapiens/linkedin-mcp",
+  "title": "LinkedIn MCP (by TalkToHumans)",
+  "description": "Let AI tools securely access your LinkedIn network and DMs",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/CoolSapiens/linkedin-mcp",
+    "source": "github",
+    "id": "1245869753"
+  },
+  "websiteUrl": "https://talktohumans.app",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.talktohumans.app/mcp"
+    }
+  ]
+}
