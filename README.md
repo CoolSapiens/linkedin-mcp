@@ -13,6 +13,8 @@ Your agent reads your LinkedIn conversations, searches your network, enriches pr
 [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-io.github.CoolSapiens%2Flinkedin--mcp-purple)](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.CoolSapiens/linkedin-mcp)
 [![Transport](https://img.shields.io/badge/Transport-Streamable%20HTTP%20%2B%20OAuth-black)](#connect-your-ai-client-to-linkedin)
 
+[![LinkedIn MCP (by TalkToHumans) MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.CoolSapiens/linkedin-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CoolSapiens/linkedin-mcp)
+
 ```txt
 https://api.talktohumans.app/mcp
 ```
