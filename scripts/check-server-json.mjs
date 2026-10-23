@@ -9,6 +9,10 @@ for (const key of required) {
   }
 }
 
+if (server.description.length > 100) {
+  throw new Error(`description is ${server.description.length} characters; the registry allows 100`);
+}
+
 if (server.name !== "io.github.CoolSapiens/linkedin-mcp") {
   throw new Error(`Unexpected registry name: ${server.name}`);
 }
