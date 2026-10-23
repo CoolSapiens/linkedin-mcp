@@ -1,6 +1,6 @@
 <a href="https://www.talktohumans.app/?utm_source=github&utm_medium=readme&utm_campaign=linkedin-mcp"><img src="assets/banner.png" alt="LinkedIn MCP server by TalkToHumans: connect Claude, ChatGPT, Codex, Cursor and n8n to your LinkedIn inbox, network, leads and activity" width="100%"/></a>
 
-# LinkedIn MCP Server for Claude, ChatGPT, Cursor & Codex
+# LinkedIn MCP Server
 
 **The safest LinkedIn MCP for your Agents.** 
 
