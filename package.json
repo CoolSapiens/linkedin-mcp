@@ -7,6 +7,7 @@
     "check": "node scripts/check-server-json.mjs",
     "registry:login": "mcp-publisher login github",
     "registry:publish": "mcp-publisher publish",
+    "registry:release": "git tag v$(node -p \"require('./server.json').version\") && git push origin v$(node -p \"require('./server.json').version\")",
     "registry:search": "curl \"https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.CoolSapiens/linkedin-mcp\""
   }
 }

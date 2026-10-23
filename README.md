@@ -2,7 +2,11 @@
 
 # LinkedIn MCP Server for Claude, ChatGPT, Cursor & Codex
 
-**The safest LinkedIn MCP for your Agents.** Connect Claude, ChatGPT, Codex, Cursor, VS Code or any remote MCP client to your own LinkedIn account. Your agent reads your LinkedIn conversations, searches your network, enriches profiles with email and phone, and drafts the messages. You review them and hit send.
+**The safest LinkedIn MCP for your Agents.** 
+
+Connect Claude, ChatGPT, Codex, Cursor, VS Code or any remote MCP client to your own LinkedIn account. 
+
+Your agent reads your LinkedIn conversations, searches your network, enriches profiles with email and phone, and drafts the messages. You review them and hit send.
 
 [![Website](https://img.shields.io/badge/Website-talktohumans.app-blue)](https://www.talktohumans.app/?utm_source=github&utm_medium=readme&utm_campaign=linkedin-mcp)
 [![Docs](https://img.shields.io/badge/Docs-MCP%20setup-green)](https://www.talktohumans.app/docs/developers/mcp)
