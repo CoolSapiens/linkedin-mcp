@@ -1,11 +1,11 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.CoolSapiens/linkedin-mcp",
+  "name": "io.github.TalkToHumans/linkedin-mcp",
   "title": "LinkedIn MCP (by TalkToHumans)",
   "description": "The safest LinkedIn MCP: your Agents read DMs, search your network and draft messages you send.",
   "version": "1.1.0",
   "repository": {
-    "url": "https://github.com/CoolSapiens/linkedin-mcp",
+    "url": "https://github.com/TalkToHumans/linkedin-mcp",
     "source": "github",
     "id": "1245869753"
   },

@@ -1,6 +1,6 @@
 name: Publish to MCP Registry
 
-# Publishing from Actions signs in as this repo (OIDC), which grants the io.github.CoolSapiens/* namespace.
+# Publishing from Actions signs in as this repo (OIDC), which grants the io.github.TalkToHumans/* namespace.
 # A personal `mcp-publisher login github` only gets io.github.<your-username>/*.
 on:
   push:

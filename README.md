@@ -10,11 +10,11 @@ Your agent reads your LinkedIn conversations, searches your network, enriches pr
 
 [![Website](https://img.shields.io/badge/Website-talktohumans.app-blue)](https://www.talktohumans.app/?utm_source=github&utm_medium=readme&utm_campaign=linkedin-mcp)
 [![Docs](https://img.shields.io/badge/Docs-MCP%20setup-green)](https://www.talktohumans.app/docs/developers/mcp)
-[![MCP Registry](https://img.shields.io/badge/MCP%20Registry-io.github.CoolSapiens%2Flinkedin--mcp-purple)](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.CoolSapiens/linkedin-mcp)
+[![MCP Registry](https://img.shields.io/badge/MCP%20Registry-io.github.TalkToHumans%2Flinkedin--mcp-purple)](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.TalkToHumans/linkedin-mcp)
 [![Transport](https://img.shields.io/badge/Transport-Streamable%20HTTP%20%2B%20OAuth-black)](#connect-your-ai-client-to-linkedin)
 [![smithery badge](https://smithery.ai/badge/talktohumans/linkedin-mcp)](https://smithery.ai/servers/talktohumans/linkedin-mcp)
 
-[![LinkedIn MCP (by TalkToHumans) MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.CoolSapiens/linkedin-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CoolSapiens/linkedin-mcp)
+[![LinkedIn MCP (by TalkToHumans) MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.TalkToHumans/linkedin-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TalkToHumans/linkedin-mcp)
 
 ```txt
 https://api.talktohumans.app/mcp
@@ -322,7 +322,7 @@ MCP and API access come with the [Pro plan](https://www.talktohumans.app/pricing
 
 This repo holds the [MCP Registry](https://registry.modelcontextprotocol.io/) entry (`server.json`) and setup docs for the hosted TalkToHumans server. The server runs at `https://api.talktohumans.app/mcp`, and its code isn't in this repo.
 
-Found a bug or a missing tool? [Open an issue](https://github.com/CoolSapiens/linkedin-mcp/issues).
+Found a bug or a missing tool? [Open an issue](https://github.com/TalkToHumans/linkedin-mcp/issues).
 
 ---
 
